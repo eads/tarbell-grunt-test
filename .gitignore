@@ -1,1 +1,4 @@
 *.pyc
+css/*
+js/*
+node_modules/*
